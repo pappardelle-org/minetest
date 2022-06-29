@@ -18,3 +18,4 @@ load_mod_signs_lib = true
 load_mod_animalia = true
 load_mod_wield3d = true
 load_mod_ambience = true
+load_mod_beds = true
