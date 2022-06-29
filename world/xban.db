@@ -1,0 +1,14 @@
+return {
+	[1] = {
+		["record"] = {
+
+		},
+		["names"] = {
+			["garretthoward"] = true,
+			["127.0.0.1"] = true,
+		},
+		["last_seen"] = 1656477363,
+		["banned"] = false,
+	},
+	["timestamp"] = 1656483579,
+}
