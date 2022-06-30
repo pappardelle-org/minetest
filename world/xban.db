@@ -1,37 +1,37 @@
 return {
-	["timestamp"] = 1656575441,
 	[1] = {
-		["record"] = {
-
-		},
-		["banned"] = false,
-		["last_seen"] = 1656572347,
 		["names"] = {
+			["127.0.0.1"] = true,
 			["192.168.1.100"] = true,
 			["garretthoward"] = true,
-			["127.0.0.1"] = true,
+		},
+		["last_seen"] = 1656572347,
+		["banned"] = false,
+		["record"] = {
+
 		},
 	},
 	[2] = {
-		["last_seen"] = 1656575131,
+		["names"] = {
+			["ytopsmax"] = true,
+			["71.28.219.122"] = true,
+		},
 		["banned"] = false,
+		["last_seen"] = 1656575131,
 		["record"] = {
 
-		},
-		["names"] = {
-			["71.28.219.122"] = true,
-			["ytopsmax"] = true,
 		},
 	},
+	["timestamp"] = 1656575514,
 	[3] = {
-		["last_seen"] = 1656541865,
+		["names"] = {
+			["thecreatordude"] = true,
+			["208.86.161.249"] = true,
+		},
 		["banned"] = false,
+		["last_seen"] = 1656541865,
 		["record"] = {
 
-		},
-		["names"] = {
-			["208.86.161.249"] = true,
-			["thecreatordude"] = true,
 		},
 	},
 }

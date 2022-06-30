@@ -2,6 +2,7 @@
 This is the repository that contains the files required to host the Pappardelle Minetest server.
 
 ## Mods
+- [3D Armor](https://content.minetest.net/packages/stu/3d_armor/)
 - [Ambience Lite](https://content.minetest.net/packages/TenPlus1/ambience/)
 - [Animalia](https://content.minetest.net/packages/ElCeejo/animalia/)
 - [Beds Redo](https://content.minetest.net/packages/TenPlus1/beds/)
