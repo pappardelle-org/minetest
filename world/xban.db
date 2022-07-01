@@ -5,33 +5,136 @@ return {
 			["192.168.1.100"] = true,
 			["garretthoward"] = true,
 		},
-		["last_seen"] = 1656572347,
-		["banned"] = false,
 		["record"] = {
 
 		},
+		["banned"] = false,
+		["last_seen"] = 1656633278,
 	},
 	[2] = {
 		["names"] = {
 			["ytopsmax"] = true,
 			["71.28.219.122"] = true,
 		},
-		["banned"] = false,
-		["last_seen"] = 1656575131,
 		["record"] = {
 
 		},
+		["last_seen"] = 1656612826,
+		["banned"] = false,
 	},
-	["timestamp"] = 1656575514,
 	[3] = {
 		["names"] = {
 			["thecreatordude"] = true,
 			["208.86.161.249"] = true,
 		},
-		["banned"] = false,
-		["last_seen"] = 1656541865,
 		["record"] = {
 
 		},
+		["last_seen"] = 1656541865,
+		["banned"] = false,
 	},
+	[4] = {
+		["names"] = {
+			["duudhxhddjdh"] = true,
+			["dihrdhhdysur"] = true,
+			["218.102.238.246"] = true,
+			["udhdhdhd"] = true,
+			["duudhxhddjddjdy"] = true,
+		},
+		["last_seen"] = 1656599003,
+		["record"] = {
+
+		},
+		["banned"] = false,
+	},
+	[5] = {
+		["names"] = {
+			["68.195.170.115"] = true,
+			["hehueejejeey"] = true,
+		},
+		["last_seen"] = 1656596822,
+		["record"] = {
+
+		},
+		["banned"] = false,
+	},
+	[6] = {
+		["names"] = {
+			["81.196.204.33"] = true,
+			["Tenda_E1"] = true,
+		},
+		["last_seen"] = 1656597331,
+		["record"] = {
+
+		},
+		["banned"] = false,
+	},
+	[7] = {
+		["names"] = {
+			["saley"] = true,
+			["12.205.245.183"] = true,
+			["ck"] = true,
+		},
+		["last_seen"] = 1656633025,
+		["record"] = {
+
+		},
+		["banned"] = false,
+	},
+	[8] = {
+		["names"] = {
+			["208.157.188.30"] = true,
+			["Kayla"] = true,
+		},
+		["last_seen"] = 1656604332,
+		["record"] = {
+
+		},
+		["banned"] = false,
+	},
+	[9] = {
+		["names"] = {
+			["opons"] = true,
+			["76.221.173.87"] = true,
+		},
+		["last_seen"] = 1656608472,
+		["record"] = {
+
+		},
+		["banned"] = false,
+	},
+	[10] = {
+		["names"] = {
+			["hnghgjgyt"] = true,
+			["98.56.157.13"] = true,
+		},
+		["last_seen"] = 1656622226,
+		["record"] = {
+
+		},
+		["banned"] = false,
+	},
+	[11] = {
+		["names"] = {
+			["idi"] = true,
+			["5.156.187.39"] = true,
+		},
+		["last_seen"] = 1656632311,
+		["record"] = {
+
+		},
+		["banned"] = false,
+	},
+	[12] = {
+		["names"] = {
+			["73.154.185.205"] = true,
+			["slimer"] = true,
+		},
+		["last_seen"] = 1656633438,
+		["record"] = {
+
+		},
+		["banned"] = false,
+	},
+	["timestamp"] = 1656634000,
 }
