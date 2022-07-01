@@ -1,140 +1,140 @@
 return {
 	[2] = {
+		["names"] = {
+			["71.28.219.122"] = true,
+			["ytopsmax"] = true,
+		},
+		["last_seen"] = 1656612826,
+		["banned"] = false,
 		["record"] = {
 
 		},
-		["names"] = {
-			["ytopsmax"] = true,
-			["71.28.219.122"] = true,
-		},
-		["banned"] = false,
-		["last_seen"] = 1656612826,
 	},
 	[5] = {
+		["names"] = {
+			["68.195.170.115"] = true,
+			["hehueejejeey"] = true,
+		},
+		["last_seen"] = 1656596822,
+		["banned"] = false,
 		["record"] = {
 
 		},
-		["names"] = {
-			["hehueejejeey"] = true,
-			["68.195.170.115"] = true,
-		},
-		["banned"] = false,
-		["last_seen"] = 1656596822,
 	},
 	[12] = {
+		["names"] = {
+			["slimer"] = true,
+			["73.154.185.205"] = true,
+		},
+		["last_seen"] = 1656633438,
+		["banned"] = false,
 		["record"] = {
 
 		},
-		["names"] = {
-			["73.154.185.205"] = true,
-			["slimer"] = true,
-		},
-		["banned"] = false,
-		["last_seen"] = 1656633438,
 	},
 	[11] = {
+		["names"] = {
+			["5.156.187.39"] = true,
+			["idi"] = true,
+		},
+		["last_seen"] = 1656632311,
+		["banned"] = false,
 		["record"] = {
 
 		},
-		["names"] = {
-			["idi"] = true,
-			["5.156.187.39"] = true,
-		},
-		["banned"] = false,
-		["last_seen"] = 1656632311,
 	},
 	[4] = {
-		["record"] = {
-
-		},
 		["names"] = {
+			["218.102.238.246"] = true,
+			["udhdhdhd"] = true,
 			["duudhxhddjddjdy"] = true,
 			["duudhxhddjdh"] = true,
 			["dihrdhhdysur"] = true,
-			["218.102.238.246"] = true,
-			["udhdhdhd"] = true,
 		},
-		["banned"] = false,
 		["last_seen"] = 1656599003,
-	},
-	[10] = {
+		["banned"] = false,
 		["record"] = {
 
 		},
+	},
+	[10] = {
 		["names"] = {
 			["hnghgjgyt"] = true,
 			["98.56.157.13"] = true,
 		},
-		["banned"] = false,
 		["last_seen"] = 1656622226,
-	},
-	[9] = {
+		["banned"] = false,
 		["record"] = {
 
 		},
+	},
+	[9] = {
 		["names"] = {
 			["opons"] = true,
 			["76.221.173.87"] = true,
 		},
-		["banned"] = false,
 		["last_seen"] = 1656608472,
-	},
-	[8] = {
+		["banned"] = false,
 		["record"] = {
 
 		},
+	},
+	[8] = {
 		["names"] = {
 			["208.157.188.30"] = true,
 			["Kayla"] = true,
 		},
-		["banned"] = false,
 		["last_seen"] = 1656604332,
-	},
-	[3] = {
+		["banned"] = false,
 		["record"] = {
 
 		},
+	},
+	[3] = {
 		["names"] = {
 			["thecreatordude"] = true,
 			["208.86.161.249"] = true,
 		},
-		["banned"] = false,
 		["last_seen"] = 1656541865,
+		["banned"] = false,
+		["record"] = {
+
+		},
 	},
 	[7] = {
-		["record"] = {
-
-		},
 		["names"] = {
+			["ck"] = true,
 			["saley"] = true,
 			["12.205.245.183"] = true,
-			["ck"] = true,
 		},
-		["banned"] = false,
 		["last_seen"] = 1656633025,
-	},
-	["timestamp"] = 1656634958,
-	[1] = {
+		["banned"] = false,
 		["record"] = {
 
 		},
+	},
+	["timestamp"] = 1656635579,
+	[1] = {
 		["names"] = {
 			["127.0.0.1"] = true,
 			["192.168.1.100"] = true,
 			["garretthoward"] = true,
 		},
-		["last_seen"] = 1656633278,
 		["banned"] = false,
-	},
-	[6] = {
+		["last_seen"] = 1656635131,
 		["record"] = {
 
 		},
+	},
+	[6] = {
 		["names"] = {
 			["Tenda_E1"] = true,
 			["81.196.204.33"] = true,
 		},
-		["banned"] = false,
 		["last_seen"] = 1656597331,
+		["banned"] = false,
+		["record"] = {
+
+		},
 	},
 }
